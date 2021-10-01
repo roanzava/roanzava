@@ -8,7 +8,7 @@
   
   ## Sobre
   
-  Meu nome é Roan Zava, sou aluno de Engenharia de Software na UNIFIL e um entusiasta de desenvolvimento Full-Stack.
+  Meu nome é Roan Zava, sou aluno de Engenharia de Software na UNIFIL e um entusiasta em desenvolvimento Full-Stack.
   
   ## Habilidades
   
