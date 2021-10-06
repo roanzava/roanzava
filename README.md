@@ -6,10 +6,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roanzava&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-  ## Sobre
-  
-  Meu nome é Roan Zava, sou aluno de Engenharia de Software na UNIFIL e um entusiasta em desenvolvimento Full-Stack.
-  
   ## Habilidades
   
 <div style="display: inline_block"><br>
